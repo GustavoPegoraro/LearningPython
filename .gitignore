@@ -5,6 +5,7 @@ env/
 
 # Ignorar arquivos temporários e de cache do Python
 __pycache__/
+.pytest_cache
 *.pyc
 *.pyo
 
